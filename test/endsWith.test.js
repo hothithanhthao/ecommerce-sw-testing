@@ -38,4 +38,14 @@ describe("endsWith", () => {
     // => false
     expect(endsWith(string_to_inspect, target, position)).toEqual(output);
   });
+
+  test("should return `false` if position is the negative value", () => {
+    const string_to_inspect = "abc";
+    const target = "c";
+    const position = -1
+    const output = false;
+    //endsWith('abc', 'c', -1)
+    // => false
+    expect(endsWith(string_to_inspect, target, position)).toEqual(output);
+  });
 });
