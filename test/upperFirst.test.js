@@ -1,6 +1,6 @@
 import upperFirst from '../src/upperFirst';
 
-describe("compact", () => {
+describe("upperFirst", () => {
     test("should upperFirst the input if the input is the lowercase string", () => {
       const input = 'fred';
       const output = 'Fred';
