@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1670190947610" clover="3.2.0">
-  <project timestamp="1670190947610" name="All files">
-    <metrics statements="156" coveredstatements="106" conditionals="143" coveredconditionals="69" methods="26" coveredmethods="17" elements="325" coveredelements="192" complexity="0" loc="156" ncloc="156" packages="2" files="25" classes="25"/>
+<coverage generated="1670451703712" clover="3.2.0">
+  <project timestamp="1670451703712" name="All files">
+    <metrics statements="156" coveredstatements="107" conditionals="143" coveredconditionals="70" methods="26" coveredmethods="17" elements="325" coveredelements="194" complexity="0" loc="156" ncloc="156" packages="2" files="25" classes="25"/>
     <package name="src">
-      <metrics statements="67" coveredstatements="41" conditionals="64" coveredconditionals="31" methods="13" coveredmethods="9"/>
-      <file name="add.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/add.js">
+      <metrics statements="67" coveredstatements="42" conditionals="64" coveredconditionals="32" methods="13" coveredmethods="9"/>
+      <file name="add.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/add.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="16" count="1" type="stmt"/>
       </file>
-      <file name="castArray.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/castArray.js">
+      <file name="castArray.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/castArray.js">
         <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-        <line num="34" count="6" type="stmt"/>
-        <line num="35" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="7" type="stmt"/>
+        <line num="35" count="7" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="clamp.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/clamp.js">
+      <file name="clamp.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/clamp.js">
         <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="5" methods="1" coveredmethods="1"/>
         <line num="19" count="1" type="stmt"/>
         <line num="20" count="1" type="stmt"/>
@@ -25,7 +25,7 @@
         <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="28" count="1" type="stmt"/>
       </file>
-      <file name="compact.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/compact.js">
+      <file name="compact.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/compact.js">
         <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="15" count="0" type="stmt"/>
         <line num="16" count="0" type="stmt"/>
@@ -34,19 +34,19 @@
         <line num="20" count="0" type="stmt"/>
         <line num="23" count="0" type="stmt"/>
       </file>
-      <file name="endsWith.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/endsWith.js">
-        <metrics statements="9" coveredstatements="8" conditionals="10" coveredconditionals="9" methods="1" coveredmethods="1"/>
-        <line num="24" count="4" type="stmt"/>
-        <line num="25" count="4" type="cond" truecount="2" falsecount="0"/>
-        <line num="26" count="4" type="cond" truecount="3" falsecount="1"/>
-        <line num="27" count="0" type="stmt"/>
+      <file name="endsWith.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/endsWith.js">
+        <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="25" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="27" count="1" type="stmt"/>
         <line num="29" count="4" type="cond" truecount="2" falsecount="0"/>
         <line num="30" count="1" type="stmt"/>
-        <line num="32" count="4" type="stmt"/>
-        <line num="33" count="4" type="stmt"/>
-        <line num="34" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="34" count="5" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="every.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/every.js">
+      <file name="every.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/every.js">
         <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
         <line num="23" count="2" type="stmt"/>
         <line num="24" count="2" type="cond" truecount="1" falsecount="1"/>
@@ -55,7 +55,7 @@
         <line num="28" count="1" type="stmt"/>
         <line num="31" count="1" type="stmt"/>
       </file>
-      <file name="filter.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/filter.js">
+      <file name="filter.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/filter.js">
         <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
         <line num="25" count="2" type="stmt"/>
         <line num="26" count="2" type="stmt"/>
@@ -67,27 +67,27 @@
         <line num="33" count="2" type="stmt"/>
         <line num="36" count="2" type="stmt"/>
       </file>
-      <file name="isBoolean.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/isBoolean.js">
+      <file name="isBoolean.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/isBoolean.js">
         <metrics statements="1" coveredstatements="1" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
         <line num="20" count="5" type="cond" truecount="4" falsecount="0"/>
       </file>
-      <file name="isDate.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/isDate.js">
+      <file name="isDate.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/isDate.js">
         <metrics statements="4" coveredstatements="3" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="1"/>
         <line num="6" count="1" type="cond" truecount="2" falsecount="0"/>
         <line num="23" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="24" count="2" type="stmt"/>
         <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="isObjectLike.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/isObjectLike.js">
+      <file name="isObjectLike.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/isObjectLike.js">
         <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="24" count="3" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="isSymbol.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/isSymbol.js">
+      <file name="isSymbol.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/isSymbol.js">
         <metrics statements="2" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="19" count="0" type="stmt"/>
         <line num="20" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="slice.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/slice.js">
+      <file name="slice.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/slice.js">
         <metrics statements="16" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -106,18 +106,18 @@
         <line num="41" count="0" type="stmt"/>
         <line num="43" count="0" type="stmt"/>
       </file>
-      <file name="upperFirst.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/upperFirst.js">
+      <file name="upperFirst.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/upperFirst.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="19" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src..internal">
       <metrics statements="89" coveredstatements="65" conditionals="79" coveredconditionals="38" methods="13" coveredmethods="8"/>
-      <file name="asciiToArray.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/.internal/asciiToArray.js">
+      <file name="asciiToArray.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/.internal/asciiToArray.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
       </file>
-      <file name="baseToNumber.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/.internal/baseToNumber.js">
+      <file name="baseToNumber.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/.internal/baseToNumber.js">
         <metrics statements="6" coveredstatements="3" conditionals="4" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="4" count="1" type="stmt"/>
         <line num="15" count="2" type="cond" truecount="1" falsecount="1"/>
@@ -126,7 +126,7 @@
         <line num="19" count="0" type="stmt"/>
         <line num="21" count="0" type="stmt"/>
       </file>
-      <file name="baseToString.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/.internal/baseToString.js">
+      <file name="baseToString.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/.internal/baseToString.js">
         <metrics statements="10" coveredstatements="2" conditionals="12" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="4" count="1" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
@@ -139,13 +139,13 @@
         <line num="29" count="0" type="stmt"/>
         <line num="30" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="castSlice.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/.internal/castSlice.js">
+      <file name="castSlice.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/.internal/castSlice.js">
         <metrics statements="3" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="15" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="createCaseFirst.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/.internal/createCaseFirst.js">
+      <file name="createCaseFirst.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/.internal/createCaseFirst.js">
         <metrics statements="7" coveredstatements="6" conditionals="8" coveredconditionals="4" methods="2" coveredmethods="2"/>
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="2" type="cond" truecount="1" falsecount="1"/>
@@ -155,7 +155,7 @@
         <line num="26" count="2" type="cond" truecount="1" falsecount="1"/>
         <line num="30" count="2" type="stmt"/>
       </file>
-      <file name="createMathOperation.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/.internal/createMathOperation.js">
+      <file name="createMathOperation.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/.internal/createMathOperation.js">
         <metrics statements="13" coveredstatements="8" conditionals="16" coveredconditionals="11" methods="2" coveredmethods="2"/>
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="1" type="cond" truecount="2" falsecount="2"/>
@@ -171,18 +171,18 @@
         <line num="29" count="1" type="stmt"/>
         <line num="31" count="1" type="stmt"/>
       </file>
-      <file name="freeGlobal.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/.internal/freeGlobal.js">
+      <file name="freeGlobal.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/.internal/freeGlobal.js">
         <metrics statements="1" coveredstatements="1" conditionals="4" coveredconditionals="4" methods="0" coveredmethods="0"/>
         <line num="2" count="1" type="cond" truecount="4" falsecount="0"/>
       </file>
-      <file name="getTag.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/.internal/getTag.js">
+      <file name="getTag.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/.internal/getTag.js">
         <metrics statements="4" coveredstatements="3" conditionals="4" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="3" type="stmt"/>
         <line num="11" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="14" count="1" type="stmt"/>
       </file>
-      <file name="hasUnicode.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/.internal/hasUnicode.js">
+      <file name="hasUnicode.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/.internal/hasUnicode.js">
         <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -196,7 +196,7 @@
         <line num="15" count="1" type="stmt"/>
         <line num="25" count="2" type="stmt"/>
       </file>
-      <file name="nodeTypes.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/.internal/nodeTypes.js">
+      <file name="nodeTypes.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/.internal/nodeTypes.js">
         <metrics statements="8" coveredstatements="8" conditionals="21" coveredconditionals="17" methods="1" coveredmethods="1"/>
         <line num="4" count="1" type="cond" truecount="4" falsecount="0"/>
         <line num="7" count="1" type="cond" truecount="5" falsecount="0"/>
@@ -207,11 +207,11 @@
         <line num="20" count="1" type="cond" truecount="3" falsecount="0"/>
         <line num="21" count="1" type="cond" truecount="1" falsecount="1"/>
       </file>
-      <file name="stringToArray.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/.internal/stringToArray.js">
+      <file name="stringToArray.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/.internal/stringToArray.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="unicodeToArray.js" path="/Users/risa/Documents/Courses/SoftwareTestingAssignment/src/.internal/unicodeToArray.js">
+      <file name="unicodeToArray.js" path="/Volumes/DATA/TUNI/Software Testing/ecommerce-sw-testing/src/.internal/unicodeToArray.js">
         <metrics statements="24" coveredstatements="23" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>

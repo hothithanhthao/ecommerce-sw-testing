@@ -36,7 +36,7 @@ describe("castArray", () => {
       expect(castArray(input)).toEqual(output);
     });
 
-    test.skip("should cast castArray if the input is empty - TC failed", () => {
+    test("should cast castArray if the input is empty - TC failed", () => {
       const output = [];
 
       expect(castArray()).toEqual(output);
